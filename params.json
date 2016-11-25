@@ -1,6 +1,6 @@
 {
   "name": "wu",
   "tagline": "wu",
-  "body": "\r\nHello world!\r\n\r\n\r\n\r\n\r\n",
+  "body": "\r\nHello world!\r\n\r\n<br />\r\n<br />\r\n<br />\r\n<html>\r\n<body>\r\n<p>1.\r\n<a href=\"http://wuhao050698.github.io/try/\" style=\"text-decoration:none\">it's the first try about the html.</a>\r\n </p>\r\n<body>\r\n<html>\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
